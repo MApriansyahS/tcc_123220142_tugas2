@@ -1,0 +1,7 @@
+# Jalankan backend
+cd notes-backend
+npm run dev
+
+# Jalankan frontend
+cd notes-frontend
+npm start
